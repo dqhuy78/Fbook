@@ -13,13 +13,13 @@ class AppServiceProvider extends ServiceProvider
      *
      * @return void
      */
-    public function boot()
+    public function boot ()
     {
         view()->composer('layout.header', function($view) {
             if (Auth::check()) {
                 $view->with('roles', User::getRoles(Auth::id()));
             } else {
-                $view->with('roles', NULL);
+                $view->with('roles', null);
             }
         });
     }

@@ -19,7 +19,7 @@ build:
 test:
   phpcs:
     ignore: false
-    command: echo '' | phpcs --standard=Framgia --report-checkstyle=.framgia-ci-reports/phpcs.xml --ignore=app/Supports/* app
+    command: echo '' | phpcs --standard=Framgia --report-checkstyle=.framgia-ci-reports/phpcs.xml app
   phpunit:
     ignore: false
     command:
