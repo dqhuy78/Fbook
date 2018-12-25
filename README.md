@@ -1,6 +1,6 @@
 [![Build Status](https://civ3-dev.framgia.vn/api/badges/dqhuy78/Fbook/status.svg)](https://civ3-dev.framgia.vn/repository/dqhuy78/Fbook/detail/overview)
 [![Repository Coverage](https://civ3-dev.framgia.vn/api/badges/dqhuy78/Fbook/coverage.svg)](https://civ3-dev.framgia.vn/repository/dqhuy78/Fbook/detail/overview)
-[![Repository Coverage](https://civ3-dev.framgia.vn/api/badges/dqhuy78/Fbook/coverage.svg)](https://civ3-dev.framgia.vn/repository/dqhuy78/Fbook/detail/overview)
+[![Repository Language](https://civ3-dev.framgia.vn/api/badges/dqhuy78/Fbook/language.svg)](https://civ3-dev.framgia.vn/repository/dqhuy78/Fbook/detail/overview)
 
 # fbook_api
 Fbook - for sharing and discussing about book
